@@ -1,9 +1,9 @@
 # JAVASCRIPT INTERVIEW QUESTIONS
 
-[JS Prototype](#Javascript-Prototype-Questions)
-[Currying](#Currying)
-[Prmoise](#Promises)
-[Closure](#Closures)
+[JS Prototype](#Javascript-Prototype-Questions) <br />
+[Currying](#Currying) <br />
+[Prmoise](#Promises) <br />
+[Closure](#Closures) <br />
 
 ### Javascript Prototype Questions
 
